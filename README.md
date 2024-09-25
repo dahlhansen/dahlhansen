@@ -14,7 +14,7 @@ Welcome to my GitHub!
 - Currently working at **Sutton Group Quantum Realty Inc.** as an Agent Services Coordinator, where I've honed my skills in communication, problem-solving, and productivity improvements.
 
 ## 💡 **What I'm Working On**
-- Currently working on sharping React and JS tools
+- Currently working on sharpening React and JS tools
 
 ## 🛠️ **Tech Stack & Skills**
 - **Languages**: Swift, Kotlin, Python, C#, C++, JavaScript (Node.js), HTML/CSS
