@@ -12,6 +12,6 @@ Welcome to my GitHub!
 
   
 ## 📫 **Connect with Me**
-- **Email**: [hansenf@sheridancollege.ca](mailto:hansenf@sheridancollege.ca)
+- **Email**: [frederik@dahlhansen.com](mailto:frederik@dahlhansen.com)
 - **LinkedIn**: [Frederik Dahl Hansen](https://www.linkedin.com/in/frederik-dahl-hansen/)
 
