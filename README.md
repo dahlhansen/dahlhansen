@@ -1,6 +1,6 @@
 # 👋 **Frederik Dahl Hansen** | Mobile Computing Enthusiast 📱
 
-Hey there! I’m **Frederik**, a passionate computer science student specializing in **mobile computing** and **app development**.
+Hey there! I’m **Frederik**, a passionate computer science student.
 
 Welcome to my GitHub!
 
