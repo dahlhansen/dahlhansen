@@ -10,22 +10,6 @@ Welcome to my GitHub!
 - I’m constantly on the lookout for new opportunities to challenge myself and **apply my knowledge in real-world applications**. 
 - **Hobbies**: Apart from coding, I love soccer ⚽, gaming 🎮, and experimenting with different cooking recipes 👨‍🍳.
 
-## 💼 **Experience**
-- Currently working at **Sutton Group Quantum Realty Inc.** as an Agent Services Coordinator, where I've honed my skills in communication, problem-solving, and productivity improvements.
-
-## 💡 **What I'm Working On**
-- Currently working on sharpening React and JS tools
-
-## 🛠️ **Tech Stack & Skills**
-- **Languages**: Swift, Kotlin, Python, C#, C++, JavaScript (Node.js), HTML/CSS
-- **Frameworks**: ReactJS, React Native, Angular, Flutter
-- **Databases**: SQL, MongoDB, Firebase
-- **Tools**: Git, GitHub, Xcode, VS Code
-- **Areas of Focus**: API Development, Mobile App Development, Web App Development
-
-## 🌱 **Currently Learning**
-- **Advanced mobile application principles** and **enterprise software systems**.
-- **Statistics for Data Science** and its applications in mobile computing.
   
 ## 📫 **Connect with Me**
 - **Email**: [hansenf@sheridancollege.ca](mailto:hansenf@sheridancollege.ca)
