@@ -1,4 +1,4 @@
-# 👋 **Frederik Dahl Hansen** | Mobile Computing Enthusiast 📱
+# 👋 **Frederik Dahl Hansen** | Computer Science Student
 
 Hey there! I’m **Frederik**, a passionate computer science student.
 
